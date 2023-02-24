@@ -1,7 +1,9 @@
 <p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">   
 </p>
-
+<p align="center">
+<img width='600'src="https://user-images.githubusercontent.com/72840768/221229458-c13acf98-6018-48f3-9171-c7920f70c01f.png">
+</p>
 -------
 
 
